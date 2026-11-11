@@ -28,7 +28,7 @@ fn test_initialize() {
     svm.add_program(program_id, bytes).unwrap();
     svm.airdrop(&payer.pubkey(), 1_000_000_000).unwrap();
 
-    let idl_uri = "https://wecrytpo.app.leaksnipe.idl.win".to_string();
+    let idl_uri = "https://idl.uvix-sol.network".to_string();
     let instruction = Instruction::new_with_bytes(
         program_id,
         &wecrypto::instruction::Initialize {

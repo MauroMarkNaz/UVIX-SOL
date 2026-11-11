@@ -6,8 +6,8 @@
     "spec": "0.1.0",
     "description": "WeCrypto Solana On-Chain PoH & Predictor Anchor Program",
     "address": "9HLcTyxqXTimBXj9RvP2dZtTwZsNdzdiGRNRdUTTUp5B",
-    "origin": "https://wecrytpo.app.leaksnipe.idl.win",
-    "idlUrl": "https://wecrytpo.app.leaksnipe.idl.win/idl/wecrypto.json"
+    "origin": "https://idl.uvix-sol.network",
+    "idlUrl": "https://idl.uvix-sol.network/idl/wecrypto.json"
   },
   "instructions": [
     {
